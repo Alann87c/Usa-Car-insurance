@@ -1,0 +1,6 @@
+{
+  "name": "USA Car Insurance Directory",
+  "description": "A comprehensive, filterable directory and comparison platform of USA car insurance companies and their official websites, featuring coverage estimators and side-by-side comparison tools.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
